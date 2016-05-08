@@ -1,0 +1,65 @@
+body {
+	background: #e74c3c;
+    color: #FDFDFD;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+::-moz-selection { 
+	background: #e74c3c;
+    color: #fff; 
+}
+::selection {     
+	background: #e74c3c;
+    color: #fff; 
+}
+
+h1 {
+	background: #fff;
+    color: #e74c3c;
+    margin: 0;
+}
+
+.description {
+    height: 47px;
+    display: block;
+    line-height: 47px;
+    margin: 0;
+    font-weight: bold;
+}
+.wrp_ctr {
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#error {
+	color: red;
+}
+
+form {
+	position: relative;
+}
+
+input {
+	width: 100%;
+	height: 40px;
+	padding: 10px;
+}
+
+.wrp_result {
+	position: absolute;
+	top: 40px;
+    width: 100%;
+	text-align: left;
+}
+
+ul {
+	list-style: none;
+	padding: 0 20px;
+	margin: 0;
+}
+
+li {
+	padding: 5px 0;
+}

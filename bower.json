@@ -1,0 +1,22 @@
+{
+  "name": "autocompletion",
+  "description": "",
+  "main": "js/script.js",
+  "authors": [
+    "omar BERRABEH"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "rxjs": "^4.1.0",
+    "jquery": "^2.2.3"
+  }
+}
